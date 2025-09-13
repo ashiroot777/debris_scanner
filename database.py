@@ -11,4 +11,12 @@ if ('debris',) in databases:
     else:
         print('try again!')
 
-
+<<<<<<< HEAD
+<<<<<<< HEAD
+c.execute("create database AAA;")
+c.execute("use")
+=======
+#ashi
+>>>>>>> d7d39c680bb770d6ef160419737db6fee3587111
+=======
+>>>>>>> af43f6d770837cb8f18434379c308fe04c951003
