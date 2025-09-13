@@ -11,5 +11,4 @@ if ('debris',) in databases:
     else:
         print('try again!')
 
-#ashi
 
